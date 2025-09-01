@@ -1,0 +1,160 @@
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+  background-image: url(https://iili.io/FvEsucB.png);
+  background-size: 182px;
+  max-width: 100%;
+  background-repeat: repeat-x;
+  font-family: Helvetica;
+  border-bottom: 6px solid #000000;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+  height: 60px;
+}
+
+.dropdown-content {
+  display: none;
+}
+
+.nav-wrapper {
+  position: relative;
+}
+
+.logo-img {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  height: 35px;
+  max-width: 316px;
+}
+@media screen and (max-width: 600px) {
+  .logo-img {
+    max-height: 20px;
+    max-width: 181px;
+  }
+}
+.redir {
+  float: right;
+}
+
+.nav a {
+  display: block;
+  color: rgb(167, 167, 167);
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration: none;
+}
+
+.redir a:hover {
+  color: #ffffff;
+}
+
+.nav li a:hover {
+  text-decoration: underline;
+}
+
+.active-nav-item {
+  background-color: #ffffff21;
+}
+
+.titlebox {
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-family: Helvetica;
+  font-size: 24px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  display: block;
+  float: right;
+  color: rgba(167,167,167,1);
+  background-color: #40404000;
+  padding: 18px;
+  font-size: 16px;
+  border: none;
+  min-width: 160px;
+  cursor: pointer;
+  font-family: Helvetica;
+}
+
+
+@media screen and (max-width: 1080px){
+
+li.dropdown, .dropbtn, .dropdown-content {
+  display: block;
+}
+li.redir {
+  display: none;
+}
+}
+
+@media screen and (min-width: 1080px){
+
+li.dropdown, .dropbtn, .dropdown-content {
+  display: none;
+}
+li.redir {
+  display: block;
+}
+}
+
+/* Dropdown hover behavior */
+.dropbtn:hover,
+.dropbtn:focus {
+  background-color: #ffffff13;
+}
+
+/* Dropdown container */
+.dropdown {
+  position: relative; 
+  float: right;
+  display: block;
+
+  z-index: 10;
+}
+
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Dropdown menu */
+.dropdown-content {
+  display: none;
+  position: absolute; 
+  top: 54px;
+  right: 0;
+  left: auto;
+  margin-top: 0;
+  border-top: none;
+  background-image: url(https://iili.io/FQBgHss.png);
+  background-color: #161616;
+  min-width: 0px;
+  border-bottom: 6px solid #000000;
+  border-left: 6px solid #000000;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+/* Dropdown links */
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Hover effect for dropdown links */
+.dropdown-content a:hover {
+  text-decoration: underline;
+  color: white
+}
+  .dropdown:hover > .dropdown-content {
+  display: block !important;
+}
