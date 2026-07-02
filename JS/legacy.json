@@ -1,4 +1,74 @@
 {
+    "Circles chal":{
+        "name":"Circles chal",
+        "ytcode":"yOVrKeZqwmg",
+        "id":"110872792",
+        "victors":"1",
+        "creatorpoints":"2",
+        "publisher":"MXGaming01",
+        "verifier":"MXGaming01",
+        "list":[{}]
+    },
+    "xbox live":{
+        "name":"xbox live",
+        "ytcode":"bug8xV1L0ys",
+        "id":"119476174",
+        "victors":"1",
+        "creatorpoints":"1",
+        "publisher":"SillyOverlord",
+        "verifier":"tFluffy",
+        "list":[{}]
+    },
+    "Doggie Challenge":{
+        "name":"Doggie Challenge",
+        "ytcode":"PI0C-5xzraM",
+        "id":"119533916",
+        "victors":"1",
+        "creatorpoints":"1",
+        "publisher":"ZenosSins",
+        "verifier":"tFluffy",
+        "list":[{}]
+    },
+    "QUIET":{
+        "name":"\u00A0QUIET",
+        "ytcode":"DHdB1kwo2Uk",
+        "id":"105619697",
+        "victors":"5",
+        "creatorpoints":"1",
+        "publisher":"GarfieldOfficia",
+        "verifier":"BeeLantern",
+        "list":[{}]
+    },
+    "DisaKevin Challenge":{
+        "name":"DisaKevin Challenge",
+        "ytcode":"531kUbs2BLs",
+        "id":"105615255",
+        "victors":"2",
+        "creatorpoints":"1",
+        "publisher":"DY1N",
+        "verifier":"tFluffy",
+        "list":[{}]
+    },
+    "EGOIST":{
+        "name":"EGOIST",
+        "ytcode":"cYOp-55Q0m0",
+        "id":"95185002",
+        "victors":"2",
+        "creatorpoints":"2",
+        "publisher":"oKagamineRin",
+        "verifier":"oKagamineRin",
+     "list":[{}]
+    },
+    "ChickentinyChallenge":{
+        "name":"ChickentinyChallenge",
+        "ytcode":"_0_1dZjTxy8",
+        "id":"120580561",
+        "victors":"2",
+        "creatorpoints":"3",
+        "publisher":"MothRose",
+        "verifier":"tFluffy",
+        "list":[{}]
+    },
     "Colosseum":{
         "name":"Colosseum",
         "ytcode":"JC-Y8vN8DX4",
@@ -137,6 +207,15 @@
         "creatorpoints":"2",
         "publisher":"MothRose",
         "verifier":"MothRose",
+        "list":[{}]
+    },
+    "purgatori":{
+        "name":"purgatori",
+        "ytcode":"M6fIm6ZjDNo",
+        "id":"136996720",
+        "creatorpoints":"2",
+        "publisher":"amatorevey",
+        "verifier":"tFluffy, uploaded by ZenosSins",
         "list":[{}]
     },
     "Hate Man":{
@@ -1466,12 +1545,12 @@
         "list":[{}]
     },
     "Bottom of the tdl":{
-        "name":"Xtinct you suck",
-        "ytcode":"HpDXU4hS1Rg",
-        "id":"126463137",
-        "creatorpoints":"2",
-        "publisher":"Natsumio",
-        "verifier":"Tfluffy",
+        "name":"Bottom of the tdl",
+        "ytcode":"8GXXcg3AYo0",
+        "id":"106326259",
+        "creatorpoints":"1",
+        "publisher":"MXGaming01",
+        "verifier":"MXGaming01",
         "list":[{}]
     }
 }
