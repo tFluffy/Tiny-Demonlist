@@ -75,7 +75,6 @@
 			"old man circles",
 			"vibrant",
 			"giedek never clear",
-			"ufwm if he was lvl 1",
 			"NOT Grief",
 			"OTHERWORLDLY",
 			"Astral",
@@ -116,11 +115,7 @@
 			"idkk",
 			"dyln wave challenge",
 			"ANDROMENADA",
-			"Circles chal",
 			"Extratone",
-			"Doggie Challenge",
-			"QUIET",
-			"EGOIST",
 			"The Eminence",
 			"Nulut Dance",
 			"burger king challeng",
@@ -128,12 +123,10 @@
 			"frick TDL",
 			"Scarlet Abyss",
 			"NOT Red World",
-			"xbox live",
 			"into dreaming",
 			"I love Ado",
 			"infernal playground",
 			"burger pizza",
-			"despaircat ii",
 			"my revival",
 			"The Tears of hank",
 			"emiLATE birthdaychal",
@@ -146,8 +139,15 @@
 			"BUTT3RFLi3S",
 			"zoink never clear v2",
 			"Blacklights",
-			"DisaKevin Challenge",
-			"ChickentinyChallenge"
+			"venom gats",
+			"Wave Cube Spider",
+			"M31UK",
+			"Dead Sakupen",
+			"Wave Challenge 1",
+			"Razorblade",
+			"hAPPY bDAY nATSUMI H",
+			"natsumio bday chall"
+			
 		],
 		"progs":[
 			"none"
@@ -213,8 +213,6 @@
 			"Severus",
 			"The Cavern",
 			"idkk",
-			"QUIET",
-			"EGOIST",
 			"The Eminence",
 			"infernal playground",
 			"I love Ado",
@@ -222,12 +220,13 @@
 			"old man circles",
 			"Rainbow Glitch",
 			"The Common Cold",
-			"Doggie Challenge",
 			"Tidal Change",
 			"burger pizza",
 			"The Tears of hank",
 			"The Reaper",
-			"DisaKevin Challenge"
+			"zenos is 5",
+			"Wave Challenge 1",
+			"natsumio bday chall"
 		],
 		"progs":[
 			"none"
@@ -245,7 +244,8 @@
 					"Crimson Webbing",
 					"burger pizza",
 					"my worst memory",
-					"THE BEAST"
+					"THE BEAST",
+					"hAPPY bDAY nATSUMI H"
 				],
 				"progs":[
 					"none"
@@ -267,7 +267,6 @@
 					"old man circles",
 					"One",
 					"Nulut Dance",
-					"xbox live",
 					"burger king challeng",
 					"final fluxx",
 					"life below",
@@ -284,8 +283,7 @@
 					"Tickle Time",
 					"smiley face",
 					"blissful pickle land",
-					"I love Ado",
-					"Doggie Challenge"
+					"I love Ado"
 				],
 				"progs":[
 					"none"
@@ -333,7 +331,6 @@
 					"erected pickle",
 					"Blacklights",
 					"sonek",
-					"QUIET",
 					"my revival",
 					"crying where",
 					"Jumper Copyable 4",
@@ -348,8 +345,6 @@
 					"Living Millennium",
 					"smiley face",
 					"Tidal Change",
-					"QUIET",
-					"EGOIST",
 					"The Eminence"
 				],
 				"progs":[
@@ -436,9 +431,7 @@
 					"Rainbow Glitch",
 					"The Tears of hank",
 					"Jumper Copyable 4",
-					"ChickentinyChallenge",
 					"OBOHOBO",
-					"EGOIST",
 					"Dark Matter",
 					"Contract hepititis b",
 					"Errorhouse",
@@ -456,8 +449,9 @@
 					"glitch waves",
 					"The UnderWorld",
 					"into dreaming",
-					"ANDROMENADA",
-					"shadow inferno"
+					"venom gats",
+					"Wave Challenge 1",
+					"natsumio bday chall"
 				],
 				"progs":[
 					"none"
@@ -473,8 +467,7 @@
 	},
 	"DexxxO71":{
 			"levels":[
-					"Ill cry Forever",
-					"QUIET"
+					"Ill cry Forever"
 				],
 				"progs":[
 					"none"
@@ -546,8 +539,7 @@
 	},
 	"Gabeygooberson":{
 			"levels":[
-					"the end",
-					"QUIET"
+					"the end"
 				],
 				"progs":[
 					"none"
@@ -563,7 +555,7 @@
 	},
 	"amatorevey":{
 			"levels":[
-					"ufwm if he was lvl 1"
+					
 				],
 				"progs":[
 					"none"
@@ -603,8 +595,7 @@
 	},
 	"MXGaming01":{
 			"levels":[
-					"shadow inferno",
-					"Circles chal"
+					"shadow inferno"
 				],
 				"progs":[
 					"none"
@@ -701,7 +692,8 @@
 	"zeroskills":{
 			"levels":[
 					"sjd",
-					"The Tears of hank"
+					"The Tears of hank",
+					"natsumio bday chall"
 				],
 				"progs":[
 					"none"
@@ -709,7 +701,16 @@
 	},
 	"RustyGD25":{
 			"levels":[
-					"The Tears of hank"
+					"The Tears of hank",
+					"natsumio bday chall"
+				],
+				"progs":[
+					"none"
+				]
+	},
+	"Tap33":{
+			"levels":[
+					"venom gats"
 				],
 				"progs":[
 					"none"
@@ -718,7 +719,8 @@
 	"zis08":{
 			"levels":[
 					"The Tears of hank",
-					"Cliff Hanger"
+					"Cliff Hanger",
+					"Razorblade"
 				],
 				"progs":[
 					"none"
@@ -733,3 +735,4 @@
 				]
 	}
 }
+
