@@ -119,6 +119,21 @@
 				}
 		]
 	},
+	"Sonic waves":{
+		"name":"Sonic waves",
+		"ytcode":"w88bYcHOscQ",
+		"id":"108849066",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"Br00klynnXX",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"final fluxx":{
 		"name":"final fluxx",
 		"ytcode":"mt_7CDKF1qI",
@@ -379,6 +394,21 @@
 				}
 		]
 	},
+	"Tetris Hell":{
+		"name":"Tetris Hell",
+		"ytcode":"MP8Vq5AJV6s",
+		"id":"112412581",
+		"victors":"0",
+		"creatorpoints":"2",
+		"publisher":"Therealepicgd",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"ILOVEYOU":{
 		"name":"ILOVEYOU",
 		"ytcode":"8x_JzQMlhus",
@@ -484,6 +514,21 @@
 		"victors":"0",
 		"creatorpoints":"8",
 		"publisher":"FreakybobGD",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
+	"faceless creatures":{
+		"name":"faceless creatures",
+		"ytcode":"LAKOk_EvgpM",
+		"id":"126207111",
+		"victors":"0",
+		"creatorpoints":"4",
+		"publisher":"ThePvzProMaster",
 		"verifier":"tFluffy",
 		"list":[
 				{
@@ -794,6 +839,21 @@
 				}
 		]
 	},
+	"Skull0rg":{
+		"name":"Skull0rg",
+		"ytcode":"iK9RKn-EMH4",
+		"id":"115223719",
+		"victors":"0",
+		"creatorpoints":"2",
+		"publisher":"LilMashy & DY1N",
+		"verifier":"tFluffy, uploaded by LiLMashy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"my revival":{
 		"name":"my revival",
 		"ytcode":"i1hU-C7QFZo",
@@ -825,6 +885,10 @@
 				{
 						"name":"AerialShard",
 						"link":"https://youtu.be/doXzk9aUqJQ"
+				},
+				{
+						"name":"ItzXtinctyt",
+						"link":"https://youtu.be/MVfXHl45c1o"
 				}
 		]
 	},
@@ -840,6 +904,25 @@
 				{
 						"name":"NA",
 						"link":"youtube.com"
+				}
+		]
+	},
+	"Stained Galaxy":{
+		"name":"Stained Galaxy",
+		"ytcode":"i1hU-C7QFZo",
+		"id":"118881497",
+		"victors":"1",
+		"creatorpoints":"6",
+		"publisher":"InfiniteParadox",
+		"verifier":"InfiniteParadox",
+		"list":[
+				{
+						"name":"tFluffy",
+						"link":"https://www.youtube.com/watch?v=DjxSCtWDhj8"
+				},
+				{
+						"name":"ZenosSins",
+						"link":"https://www.youtube.com/watch?v=ruI6Cds0igc"
 				}
 		]
 	},
@@ -1044,7 +1127,22 @@
 		"list":[
 				{
 						"name":"NA",
-						"link":"dih"
+						"link":"youtube.com"
+				}
+		]
+	},
+	"Ecliptic":{
+		"name":"Ecliptic",
+		"ytcode":"Qe8dLOAjluc",
+		"id":"143673554",
+		"victors":"0",
+		"creatorpoints":"2",
+		"publisher":"quaoz",
+		"verifier":"quaoz",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
 				}
 		]
 	},
@@ -1143,108 +1241,6 @@
 				{
 					"name":"Th3Name",
 					"link":"https://youtu.be/pdkzw6BT1nE"
-				}
-		]
-	},
-	"Epilepsy Simulator":{
-		"name":"Epilepsy Simulator",
-		"ytcode":"2H_0OypMXc0",
-		"id":"108243474",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"fordofan",
-		"verifier":"tFluffy",
-		"list":[
-				{
-					"name":"NA",
-					"link":"youtube.com"
-				}
-		]
-	},
-	"Argon X":{
-		"name":"Argon X",
-		"ytcode":"K7yjUw82iEA",
-		"id":"124234661",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"TechnoKaj",
-		"verifier":"tFluffy",
-		"list":[
-				{
-					"name":"NA",
-					"link":"youtube.com"
-				}
-		]
-	},
-	"Calm Waves":{
-		"name":"Calm Waves",
-		"ytcode":"VIuxO-RlOPM",
-		"id":"108548969",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"tFluffy",
-		"verifier":"tFluffy",
-		"list":[
-				{
-						"name":"NA",
-						"link":"youtube.com"
-				}
-		]
-	},
-	"bruhs3xual":{
-		"name":"bruhs3xual",
-		"ytcode":"xUs8tlZzOFw",
-		"id":"107423384",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"DY1N",
-		"verifier":"tFluffy",
-		"list":[
-				{
-						"name":"NA",
-						"link":"youtube.com"
-				}
-		]
-	},
-	"DxstGD Challenge":{
-		"name":"DxstGD Challenge",
-		"ytcode":"c4JKJuXnA1s",
-		"id":"107237645",
-		"victors":"2",
-		"creatorpoints":"1",
-		"publisher":"ZenosSins",
-		"verifier":"ZenosSins",
-		"list":[
-				{
-						"name":"tFluffy",
-						"link":"https://www.youtube.com/watch?v=Zrr_j8Cn8ac"
-				},
-				{
-						"name":"AerialShard",
-						"link":"https://www.youtube.com/watch?v=ie0R1WyfiyI"
-				}
-		]
-	},
-	"TDHELL":{
-		"name":"TDHELL",
-		"ytcode":"RumN70tDMVw",
-		"id":"107726936",
-		"victors":"2",
-		"creatorpoints":"3",
-		"publisher":"FreakybobGD",
-		"verifier":"FreakybobGD",
-		"list":[
-				{
-						"name":"tFluffy",
-						"link":"https://youtu.be/v225fZ5zC8o"
-				},
-				{
-						"name":"ZenosSins",
-						"link":"https://youtu.be/DSPgKqvP2iM?si=wjPFPvxnLEK2PrGs"
-				},
-				{
-						"name":"quaoz",
-						"link":"https://youtu.be/OClLJrpEEAw?si=t0wGMZUK4jB8vJL2"
 				}
 		]
 	}
