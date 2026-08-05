@@ -370,6 +370,16 @@
         "name":"tFluffy",
         "link":"https://www.youtube.com/watch?v=QyNbO0wSBZU",
         "time":"4.566"
+      },
+      {
+        "name":"kaxer000",
+        "link":"https://medal.tv/games/geometry-dash/clips/ncp7nkrgM4OuLU02a?invite=cr-MSxLS04sNTA0MDg1NTQx",
+        "time":"7.362"
+      },
+      {
+        "name":"kowman10",
+        "link":"https://www.youtube.com/watch?v=iD8FR8SLLjc",
+        "time":"7.454"
       }
     ]
   },
@@ -437,6 +447,24 @@
       }
     ]
   },
+  "Black Weather":{
+    "name":"Black Weather",
+    "ytcode":"Vn61EZhUHJA",
+    "id":"145667881",
+    "victors":"1",
+    "creatorpoints":"2",
+    "publisher":"kaxer000",
+    "verifierTime":"7.787",
+    "verifier":"kaxer000",
+    "uploader":"kaxer000",
+    "list":[
+      {
+        "name":"tFluffy",
+        "link":"https://www.youtube.com/watch?v=9wkWkLETtR4",
+        "time":"4.245"
+      }
+    ]
+  },
   "lobotomy bounce":{
     "name":"lobotomy bounce",
     "ytcode":"zGq-nHtYQxE",
@@ -485,6 +513,21 @@
         "name":"kowman10",
         "link":"https://www.youtube.com/watch?v=h4w6Dh69Ars",
         "time":"6.233"
+      },
+      {
+        "name":"TbsPro",
+        "link":"https://youtu.be/_e_EvNOOERI",
+        "time":"5.774"
+      },
+      {
+        "name":"S4l0ch1n",
+        "link":"https://www.youtube.com/watch?v=mVJjojvtEt0",
+        "time":"7.549"
+      },
+      {
+        "name":"Neonyolli",
+        "link":"https://www.youtube.com/watch?v=iyGE4n9b0Fk",
+        "time":"9.020"
       }
     ]
   },
@@ -508,6 +551,29 @@
         "name":"tFluffy",
         "link":"https://youtu.be/kQRADZmfjMU",
         "time":"4.391"
+      },
+      {
+        "name":"kowman10",
+        "link":"https://youtu.be/kQRADZmfjMU",
+        "time":"6.899"
+      }
+    ]
+  },
+  "gharys supertrial 02":{
+    "name":"gharys supertrial 02",
+    "ytcode":"Vn61EZhUHJA",
+    "id":"132637282",
+    "victors":"1",
+    "creatorpoints":"2",
+    "publisher":"ThePvzProMaster",
+    "verifierTime":"7.787",
+    "verifier":"ThePvzProMaster",
+    "uploader":"ThePvzProMaster",
+    "list":[
+      {
+        "name":"tFluffy",
+        "link":"https://www.youtube.com/watch?v=aXG_ffqTNAg",
+        "time":"3.566"
       }
     ]
   },
@@ -546,6 +612,39 @@
         "name":"hellomangd",
         "link":"https://www.youtube.com/watch?v=tjA03WhQKf8&t=90s",
         "time":"8.825"
+      },
+      {
+        "name":"kaxer000",
+        "link":"https://medal.tv/games/geometry-dash/clips/nffXMFmeYwTUL4bmZ?invite=cr-MSxrU2MsNTA0MDg1NTQx",
+        "time":"7.654"
+      },
+       {
+        "name":"TbsPro",
+        "link":"https://youtu.be/6rdpBKsxaCk",
+        "time":"9.066"
+      },
+      {
+        "name":"Neonyolli",
+        "link":"https://www.youtube.com/watch?v=se_Nkgm_7CM",
+        "time":"8.954"
+      }
+    ]
+  },
+  "my cat to death":{
+    "name":"my cat to death",
+    "ytcode":"5JXq2mdNjbU",
+    "id":"107974858",
+    "victors":"1",
+    "creatorpoints":"1",
+    "publisher":"tophat951",
+    "verifierTime":"N/A",
+    "verifier":"tophat951 (no video)",
+    "uploader":"tophat951",
+    "list":[
+      {
+        "name":"tFluffy",
+        "link":"https://www.youtube.com/watch?v=yFeBmCIouaI",
+        "time":"3.566"
       }
     ]
   },
@@ -584,6 +683,11 @@
         "name":"Angopr",
         "link":"https://www.youtube.com/watch?v=Dz2T_2v9WpI",
         "time":"1.837"
+      },
+      {
+        "name":"Neonyolli",
+        "link":"https://www.youtube.com/watch?v=1Rm4PFDRPq4",
+        "time":"3.004"
       }
     ]
   },
@@ -632,6 +736,16 @@
         "name":"Angopr",
         "link":"https://www.youtube.com/watch?v=psGhpI9Q-sA",
         "time":"0.412"
+      },
+      {
+        "name":"TbsPro",
+        "link":"https://www.youtube.com/watch?v=2bv7Bs46g24",
+        "time":"1.120"
+      },
+       {
+        "name":"Neonyolli",
+        "link":"https://www.youtube.com/watch?v=BLkkEuY0Zew",
+        "time":"4.962"
       }
     ]
   }
