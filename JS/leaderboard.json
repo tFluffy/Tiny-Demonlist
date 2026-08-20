@@ -331,7 +331,9 @@
 					"crying where",
 					"Jumper Copyable 4",
 					"Nulut Dance",
-					"Ecliptic"
+					"Ecliptic",
+					"Tidal Circles",
+					"Tickle Time"
 				],
 				"progs":[
 					"none"
@@ -445,7 +447,19 @@
 					"The UnderWorld",
 					"into dreaming",
 					"venom gats",
-					"Wave Challenge 1"
+					"Wave Challenge 1",
+					"zenos is 5",
+					"pootra",
+					"infernal playground",
+					"life below",
+					"My Flesh",
+					"Fatality",
+					"Cigl",
+					"Cannibal",
+					"Slayer",
+					"Unleashed",
+					"the end",
+					"old man circles"
 				],
 				"progs":[
 					"none"
@@ -472,7 +486,8 @@
 					"short king",
 					"SPECTRUM CRAZE",
 					"Ill cry Forever",
-					"Stained Galaxy"
+					"Stained Galaxy",
+					"dyln ship challenge"
 				],
 				"progs":[
 					"none"
@@ -712,6 +727,40 @@
 	"ItzXtinctyt":{
 			"levels":[
 					"into dreaming"
+				],
+				"progs":[
+					"none"
+				]
+	},
+	"maxfgmd":{
+			"levels":[
+					"sjd"
+				],
+				"progs":[
+					"none"
+				]
+	},
+	"mald":{
+			"levels":[
+					"The Common Cold"
+				],
+				"progs":[
+					"none"
+				]
+	},
+	"NianiaXD":{
+			"levels":[
+					"Hades",
+					"Severus Incarnate",
+					"erected pickle"
+				],
+				"progs":[
+					"none"
+				]
+	},
+	"reverie08":{
+			"levels":[
+					"Nulut Dance"
 				],
 				"progs":[
 					"none"
