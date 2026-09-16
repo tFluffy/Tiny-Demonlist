@@ -1,3 +1,4 @@
+[
 {
 	"BUTT3RFLi3S":{
 		"name":"BUTT3RFLi3S",
@@ -1174,7 +1175,7 @@
 						"link":"youtube.com"
 				}
 		]
-	},
+	}},
 	{
 	"Epilepsy Simulator":{
 		"name":"Epilepsy Simulator",
@@ -1237,3 +1238,4 @@
 		]
 	}
 }
+]
