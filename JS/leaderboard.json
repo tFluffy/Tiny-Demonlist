@@ -87,11 +87,9 @@
 			"life below",
 			"Cigl",
 			"Blue Dandelion",
-			"marethenightbypvbz",
 			"Contract hepititis b",
 			"shadow inferno",
 			"glitch waves",
-			"azure bleu",
 			"HEADACHE",
 			"My Flesh",
 			"mania",
@@ -102,11 +100,9 @@
 			"Unleashed",
 			"Slayer",
 			"OBOHOBO",
-			"zenos never clear",
 			"Alex Velicky",
 			"Tidal Change",
 			"Severus",
-			"Jumper Copyable 4",
 			"idkk",
 			"Extratone",
 			"The Eminence",
@@ -155,23 +151,24 @@
 	"ThePvzProMaster":{
 		"levels":[
 			"bal 4",
-			"marethenightbypvbz",
 			"bal 3",
 			"halvechamber",
 			"Eradication",
-			"Tourture Chamber"
+			"Tourture Chamber",
+			"Lantern Lamentation"
 		],
 		"progs":[
 			"none"
 		]
 	},
-	"maxdaxperson":{
+	"fiestygd":{
 		"levels":[
 			"Dark Matter",
 			"I think",
 			"mania",
 			"sjd",
-			"The Eminence"
+			"The Eminence",
+			"Horrible Place"
 		],
 		"progs":[
 			"none"
@@ -202,9 +199,7 @@
 			"Sakupenlike",
 			"life below",
 			"Blue Dandelion",
-			"marethenightbypvbz",
 			"shadow inferno",
-			"azure bleu",
 			"My Flesh",
 			"mania",
 			"BLOODY DEITY",
@@ -224,7 +219,9 @@
 			"The Reaper",
 			"zenos is 5",
 			"Wave Challenge 1",
-			"Stained Galaxy"
+			"Stained Galaxy",
+			"perhapsave",
+			"Rigid Corkscrew"
 		],
 		"progs":[
 			"none"
@@ -272,7 +269,6 @@
 					"Hades",
 					"erected pickle",
 					"idkk",
-					"marethenightbypvbz",
 					"burger pizza",
 					"my revival",
 					"emiLATE birthdaychal",
@@ -329,7 +325,6 @@
 					"sonek",
 					"my revival",
 					"crying where",
-					"Jumper Copyable 4",
 					"Nulut Dance",
 					"Ecliptic",
 					"Tidal Circles",
@@ -423,11 +418,9 @@
 					"mania",
 					"blissful pickle land",
 					"KiCkiN",
-					"azure bleu",
 					"Ill cry Forever",
 					"Rainbow Glitch",
 					"The Tears of hank",
-					"Jumper Copyable 4",
 					"OBOHOBO",
 					"Dark Matter",
 					"Contract hepititis b",
@@ -497,8 +490,7 @@
 			"levels":[
 					"Two point too",
 					"Blue Dandelion",
-					"My Flesh",
-					"Jumper Copyable 4"
+					"My Flesh"
 				],
 				"progs":[
 					"none"
@@ -601,14 +593,6 @@
 					"none"
 				]
 	},
-	"ghostyeh7":{
-			"levels":[
-					"azure bleu"
-				],
-				"progs":[
-					"none"
-				]
-	},
 	"Slinky2701":{
 			"levels":[
 					"Alex Velicky"
@@ -625,54 +609,7 @@
 					"none"
 				]
 	},
-	"p22p22cool":{
-			"levels":[
-				
-				],
-				"progs":[
-					"none"
-				]
-	},
-	"MothRose":{
-			"levels":[
-				
-				],
-				"progs":[
-					"none"
-				]
-	},
-	"DaringDare910":{
-			"levels":[
-					"marethenightbypvbz"
-				],
-				"progs":[
-					"none"
-				]
-	},
-	"foghner":{
-			"levels":[
-
-				],
-				"progs":[
-					"none"
-				]
-	},
-	"MeowthJR":{
-			"levels":[
 	
-				],
-				"progs":[
-					"none"
-				]
-	},
-	"kowman10":{
-			"levels":[
-				"marethenightbypvbz"
-				],
-				"progs":[
-					"none"
-				]
-	},
 	"kdglol":{
 			"levels":[
 					"I love Ado"
@@ -808,4 +745,3 @@
 				]
 	}
 }
-
