@@ -292,29 +292,6 @@
 				}
 		]
 	},
-	"SPECTRUM CRAZE":{
-		"name":"SPECTRUM CRAZE",
-		"ytcode":"VII8B1_mZMo",
-		"id":"117694253",
-		"victors":"1",
-		"creatorpoints":"4",
-		"publisher":"tFluffy",
-		"verifier":"tFluffy",
-		"list":[
-				{
-						"name":"AerialShard",
-						"link":"https://www.youtube.com/watch?v=qHhS4JnQbwQ"
-				},
-				{
-						"name":"quaoz",
-						"link":"https://www.youtube.com/watch?v=vQtUimZL9-4&t=184s"
-				},
-				{
-						"name":"InfiniteParadox",
-						"link":"https://youtu.be/cGpYsAyoXbc"
-				}
-		]
-	},
 	"Top Ship":{
 		"name":"Top Ship",
 		"ytcode":"7zV0UmJKG5s",
@@ -396,6 +373,33 @@
 				}
 		]
 	},
+	"The Common Cold":{
+        "name":"The Common Cold",
+        "ytcode":"kYWKYmy0xVc",
+        "id":"103568924",
+        "victors":"2",
+        "creatorpoints":"2",
+        "publisher":"ZenosSins",
+        "verifier":"ZenosSins",
+        "list":[
+                {
+                        "name":"Th3Name",
+                        "link":"https://www.youtube.com/watch?v=UQjAGgUjmVQ"
+                },
+                {
+                        "name":"AerialShard",
+                        "link":"https://www.youtube.com/watch?v=OP024-kQAAs"
+                },
+                {
+                        "name":"tFluffy",
+                        "link":"https://www.youtube.com/watch?v=QmPKCQTNmTM"
+                },
+                {
+                        "name":"mald",
+                        "link":"https://youtu.be/j5pPrXq8jow"
+                }
+        ]
+    },
 	"Cannibal":{
 		"name":"Cannibal",
 		"ytcode":"qJTZuFvVeDY",
@@ -430,6 +434,29 @@
 				}
 		]
 	},
+	"blissful pickle land":{
+        "name":"blissful pickle land",
+        "ytcode":"Y_Ne5Rb32ac",
+        "id":"125037097",
+        "victors":"3",
+        "creatorpoints":"1",
+        "publisher":"kowman10",
+        "verifier":"tFluffy, uploaded by tFluffy",
+        "list":[
+                {
+                    "name":"AerialShard",
+                    "link":"https://www.youtube.com/watch?v=koa5opC4jsM"
+                },
+                {
+                    "name":"Th3Name",
+                    "link":"https://youtu.be/pdkzw6BT1nE"
+                },
+                {
+                    "name":"naturellwall",
+                    "link":"https://youtu.be/-lJQGlxyEb8?si=Zmy-P9G-9ig18rTD"
+                }
+        ]
+    },
 	"and beyond":{
 		"name":"and beyond",
 		"ytcode":"zh84ZH30K1A",
@@ -671,6 +698,21 @@
 			}
 		]
 	},
+	 "Kamah Scythe":{
+        "name":"Kamah Scythe",
+        "ytcode":"ZUf2LsmpAr0",
+        "id":"115411473",
+        "victors":"1",
+        "creatorpoints":"1",
+        "publisher":"ZenosSins",
+        "verifier":"ZenosSins",
+        "list":[
+                {
+                        "name":"tFluffy",
+                        "link":"https://youtu.be/MIfkVhszRrw"
+                }
+        ]
+    },
 	"Diamond":{
 		"name":"Diamond",
 		"ytcode":"NC6wer13JP0",
@@ -846,6 +888,29 @@
 			}
 		]
 	},
+	"SPECTRUM CRAZE":{
+		"name":"SPECTRUM CRAZE",
+		"ytcode":"VII8B1_mZMo",
+		"id":"117694253",
+		"victors":"1",
+		"creatorpoints":"4",
+		"publisher":"tFluffy",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"AerialShard",
+						"link":"https://www.youtube.com/watch?v=qHhS4JnQbwQ"
+				},
+				{
+						"name":"quaoz",
+						"link":"https://www.youtube.com/watch?v=vQtUimZL9-4&t=184s"
+				},
+				{
+						"name":"InfiniteParadox",
+						"link":"https://youtu.be/cGpYsAyoXbc"
+				}
+		]
+	},
 	"hAPPY bDAY nATSUMI H":{
 		"name":"hAPPY bDAY nATSUMI H",
 		"ytcode":"cG7g85bChQo",
@@ -861,6 +926,45 @@
 			}
 		]
 	},
+	"erected pickle":{
+        "name":"erected pickle",
+        "ytcode":"hRM7pKSzmHI",
+        "id":"107074619",
+        "victors":"2",
+        "creatorpoints":"1",
+        "publisher":"natsumio",
+        "verifier":"sydno",
+        "list":[
+                {
+                        "name":"tFluffy",
+                        "link":"https://www.youtube.com/watch?v=hQoTiUJ0Mr8"
+                },
+                {
+                        "name":"ZenosSins",
+                        "link":"https://www.youtube.com/watch?v=lYlEfgc8LNc"
+                },
+                {
+                        "name":"Th3Name",
+                        "link":"https://youtu.be/QJ9VDhvrxEg"
+                },
+                {
+                        "name":"quaoz",
+                        "link":"https://youtu.be/oOShb_L9iJI?si=-FhGUHRTPWeCUnIp"
+                },
+                {
+                        "name":"AerialShard",
+                        "link":"https://youtu.be/N26Qxzf5c-Q"
+                },
+                {
+                        "name":"NianiaXD",
+                        "link":"https://youtu.be/tw10rz4oYRc"
+                },
+                {
+                        "name":"tacocat6",
+                        "link":"https://www.youtube.com/watch?v=0pP6gAhwnwI"
+                }
+        ]
+    },
 	"Blue Dandelion":{
 		"name":"Blue Dandelion",
 		"ytcode":"u7WADSbcbUA",
