@@ -134,21 +134,6 @@
 				}
 		]
 	},
-	"final fluxx":{
-		"name":"final fluxx",
-		"ytcode":"mt_7CDKF1qI",
-		"id":"126817206",
-		"victors":"0",
-		"creatorpoints":"2",
-		"publisher":"Th3Name",
-		"verifier":"Th3Name",
-		"list":[
-				{
-					"name":"NA",
-					"link":"youtube.com"
-				}
-		]
-	},
 	"PooCollab":{
 		"name":"PooCollab",
 		"ytcode":"j-vtfnnLbFo",
@@ -194,25 +179,6 @@
 			}
 		]
 	},
-	"crying where":{
-		"name":"crying where",
-		"ytcode":"1bBxMsjD2YI",
-		"id":"117832497",
-		"victors":"1",
-		"creatorpoints":"2",
-		"publisher":"pastelliano",
-		"verifier":"pastelliano",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/zjpmKe4Z18w"
-			},
-			{
-				"name":"quaoz",
-				"link":"https://youtu.be/rpMrSb2HJQ4?si=vVADrfdciaGy8beK"
-			}
-		]
-	},
 	"Severus Incarnate":{
 		"name":"Severus Incarnate",
 		"ytcode":"8gG4pI1LdWk",
@@ -228,6 +194,21 @@
 			}
 		]
 	},
+	"final fluxx":{
+		"name":"final fluxx",
+		"ytcode":"mt_7CDKF1qI",
+		"id":"126817206",
+		"victors":"0",
+		"creatorpoints":"2",
+		"publisher":"Th3Name",
+		"verifier":"Th3Name",
+		"list":[
+				{
+					"name":"NA",
+					"link":"youtube.com"
+				}
+		]
+	},
 	"BALKAN RAGE":{
 		"name":"BALKAN RAGE",
 		"ytcode":"8kQFoXVn35M",
@@ -241,25 +222,6 @@
 				"name":"tFluffy",
 				"link":"https://www.youtube.com/watch?v=Cmn2K1CJVRg"
 			}
-		]
-	},
-	"Dark Matter":{
-		"name":"Dark Matter",
-		"ytcode":"bM14-kTN_ZA",
-		"id":"116528378",
-		"victors":"1",
-		"creatorpoints":"5",
-		"publisher":"Trilazer64bit",
-		"verifier":"maxdaxperson, uploaded by maxdaxperson",
-		"list":[
-				{
-						"name":"tFluffy",
-						"link":"https://youtu.be/hPJYqjnfdlM"
-				},
-				{
-						"name":"AerialShard",
-						"link":"https://youtu.be/X6boQWZzThI"
-				}
 		]
 	},
 	"Living Millennium":{
@@ -327,6 +289,25 @@
 				{
 						"name":"NA",
 						"link":"youtube.com"
+				}
+		]
+	},
+	"Dark Matter":{
+		"name":"Dark Matter",
+		"ytcode":"bM14-kTN_ZA",
+		"id":"116528378",
+		"victors":"1",
+		"creatorpoints":"5",
+		"publisher":"Trilazer64bit",
+		"verifier":"fiestygd, uploaded by maxdaxperson",
+		"list":[
+				{
+						"name":"tFluffy",
+						"link":"https://youtu.be/hPJYqjnfdlM"
+				},
+				{
+						"name":"AerialShard",
+						"link":"https://youtu.be/X6boQWZzThI"
 				}
 		]
 	},
@@ -411,6 +392,25 @@
 						"name":"NA",
 						"link":"youtube.com"
 				}
+		]
+	},
+	"crying where":{
+		"name":"crying where",
+		"ytcode":"1bBxMsjD2YI",
+		"id":"117832497",
+		"victors":"1",
+		"creatorpoints":"2",
+		"publisher":"pastelliano",
+		"verifier":"pastelliano",
+		"list":[
+			{
+				"name":"tFluffy",
+				"link":"https://youtu.be/zjpmKe4Z18w"
+			},
+			{
+				"name":"quaoz",
+				"link":"https://youtu.be/rpMrSb2HJQ4?si=vVADrfdciaGy8beK"
+			}
 		]
 	},
 	"ILOVEYOU":{
@@ -620,45 +620,6 @@
 				{
 						"name":"gabimoth",
 						"link":"https://youtu.be/qJdFcx6Pnhc"
-				}
-		]
-	},
-	"erected pickle":{
-		"name":"erected pickle",
-		"ytcode":"hRM7pKSzmHI",
-		"id":"107074619",
-		"victors":"2",
-		"creatorpoints":"1",
-		"publisher":"natsumio",
-		"verifier":"sydno",
-		"list":[
-				{
-						"name":"tFluffy",
-						"link":"https://www.youtube.com/watch?v=hQoTiUJ0Mr8"
-				},
-				{
-						"name":"ZenosSins",
-						"link":"https://www.youtube.com/watch?v=lYlEfgc8LNc"
-				},
-				{
-						"name":"Th3Name",
-						"link":"https://youtu.be/QJ9VDhvrxEg"
-				},
-				{
-						"name":"quaoz",
-						"link":"https://youtu.be/oOShb_L9iJI?si=-FhGUHRTPWeCUnIp"
-				},
-				{
-						"name":"AerialShard",
-						"link":"https://youtu.be/N26Qxzf5c-Q"
-				},
-				{
-						"name":"NianiaXD",
-						"link":"https://youtu.be/tw10rz4oYRc"
-				},
-				{
-						"name":"tacocat6",
-						"link":"https://www.youtube.com/watch?v=0pP6gAhwnwI"
 				}
 		]
 	},
@@ -1055,33 +1016,6 @@
 				}
 		]
 	},
-	"The Common Cold":{
-		"name":"The Common Cold",
-		"ytcode":"kYWKYmy0xVc",
-		"id":"103568924",
-		"victors":"2",
-		"creatorpoints":"2",
-		"publisher":"ZenosSins",
-		"verifier":"ZenosSins",
-		"list":[
-				{
-						"name":"Th3Name",
-						"link":"https://www.youtube.com/watch?v=UQjAGgUjmVQ"
-				},
-				{
-						"name":"AerialShard",
-						"link":"https://www.youtube.com/watch?v=OP024-kQAAs"
-				},
-				{
-						"name":"tFluffy",
-						"link":"https://www.youtube.com/watch?v=QmPKCQTNmTM"
-				},
-				{
-						"name":"mald",
-						"link":"https://youtu.be/j5pPrXq8jow"
-				}
-		]
-	},
 	"I love Ado":{
 		"name":"I love Ado",
 		"ytcode":"C5EYLuMhPEQ",
@@ -1196,21 +1130,6 @@
 				}
 		]
 	},
-	"Kamah Scythe":{
-		"name":"Kamah Scythe",
-		"ytcode":"ZUf2LsmpAr0",
-		"id":"115411473",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"ZenosSins",
-		"verifier":"ZenosSins",
-		"list":[
-				{
-						"name":"tFluffy",
-						"link":"https://youtu.be/MIfkVhszRrw"
-				}
-		]
-	},
 	"M3G4 F1uff":{
 		"name":"M3G4 F1uff",
 		"ytcode":"BD3SC9Wv65o",
@@ -1253,29 +1172,6 @@
 				{
 						"name":"NA",
 						"link":"youtube.com"
-				}
-		]
-	},
-	"blissful pickle land":{
-		"name":"blissful pickle land",
-		"ytcode":"Y_Ne5Rb32ac",
-		"id":"125037097",
-		"victors":"3",
-		"creatorpoints":"1",
-		"publisher":"kowman10",
-		"verifier":"tFluffy, uploaded by tFluffy",
-		"list":[
-				{
-					"name":"AerialShard",
-					"link":"https://www.youtube.com/watch?v=koa5opC4jsM"
-				},
-				{
-					"name":"Th3Name",
-					"link":"https://youtu.be/pdkzw6BT1nE"
-				},
-				{
-					"name":"naturellwall",
-					"link":"https://youtu.be/-lJQGlxyEb8?si=Zmy-P9G-9ig18rTD"
 				}
 		]
 	}
