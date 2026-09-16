@@ -1,49 +1,4 @@
 {
-	"Epilepsy Simulator":{
-		"name":"Epilepsy Simulator",
-		"ytcode":"2H_0OypMXc0",
-		"id":"108243474",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"fordofan",
-		"verifier":"tFluffy",
-		"list":[
-				{
-					"name":"NA",
-					"link":"youtube.com"
-				}
-		]
-	},
-	"Argon X":{
-		"name":"Argon X",
-		"ytcode":"K7yjUw82iEA",
-		"id":"124234661",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"TechnoKaj",
-		"verifier":"tFluffy",
-		"list":[
-				{
-					"name":"NA",
-					"link":"youtube.com"
-				}
-		]
-	},
-	"Two":{
-		"name":"2",
-		"ytcode":"FCJJACHLVfs",
-		"id":"139456035",
-		"victors":"0",
-		"creatorpoints":"2",
-		"publisher":"DY1N",
-		"verifier":"tFluffy",
-		"list":[
-				{
-					"name":"NA",
-					"link":"youtube.com"
-				}
-		]
-	},
 	"Calm Waves":{
 		"name":"Calm Waves",
 		"ytcode":"VIuxO-RlOPM",
@@ -56,21 +11,6 @@
 				{
 						"name":"pengus",
 						"link":"https://www.youtube.com/watch?v=Qt_LEZVmIFU"
-				}
-		]
-	},
-	"bruhs3xual":{
-		"name":"bruhs3xual",
-		"ytcode":"xUs8tlZzOFw",
-		"id":"107423384",
-		"victors":"0",
-		"creatorpoints":"1",
-		"publisher":"DY1N",
-		"verifier":"tFluffy",
-		"list":[
-				{
-						"name":"NA",
-						"link":"youtube.com"
 				}
 		]
 	},
