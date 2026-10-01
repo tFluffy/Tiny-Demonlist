@@ -1,4 +1,143 @@
 {
+	"Serviance":{
+		"name":"Serviance",
+		"ytcode":"7ohErS2YFz4",
+		"id":"142999320",
+		"victors":"0",
+		"creatorpoints":"6",
+		"publisher":"natsumio & QuadLK",
+		"verifier":"NianiaXD",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
+	"My Last Stand":{
+		"name":"My Last Stand",
+		"ytcode":"WFaAavH7sGk",
+		"id":"105800713",
+		"victors":"1",
+		"creatorpoints":"1",
+		"publisher":"quaoz",
+		"verifier":"quaoz",
+		"list":[
+				{
+						"name":"tFluffy",
+						"link":"https://www.youtube.com/watch?v=UQ9kP8LIBIo"
+				},
+				{
+						"name":"AerialShard",
+						"link":"https://youtu.be/OK1KhZm518g"
+				}
+		]
+	},
+	"M3G4 F1uff":{
+		"name":"M3G4 F1uff",
+		"ytcode":"BD3SC9Wv65o",
+		"id":"117037634",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"ZenosSins",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
+	"One":{
+		"name":"1",
+		"ytcode":"Yk2Y84skgVE",
+		"id":"106890895",
+		"victors":"1",
+		"creatorpoints":"1",
+		"publisher":"user19312",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"Th3Name",
+						"link":"https://www.youtube.com/watch?v=2gwoa0SwcfA"
+				}
+		]
+	},
+	"Slaughterer II":{
+		"name":"Slaughterer II",
+		"ytcode":"U3ZP00KBx2c",
+		"id":"105724776",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"ASPECTLIVE",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
+	"Epilepsy Simulator":{
+		"name":"Epilepsy Simulator",
+		"ytcode":"2H_0OypMXc0",
+		"id":"108243474",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"fordofan",
+		"verifier":"tFluffy",
+		"list":[
+				{
+					"name":"NA",
+					"link":"youtube.com"
+				}
+		]
+	},
+	"Argon X":{
+		"name":"Argon X",
+		"ytcode":"K7yjUw82iEA",
+		"id":"124234661",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"TechnoKaj",
+		"verifier":"tFluffy",
+		"list":[
+				{
+					"name":"NA",
+					"link":"youtube.com"
+				}
+		]
+	},
+	"Two":{
+		"name":"2",
+		"ytcode":"FCJJACHLVfs",
+		"id":"139456035",
+		"victors":"0",
+		"creatorpoints":"2",
+		"publisher":"DY1N",
+		"verifier":"tFluffy",
+		"list":[
+				{
+					"name":"NA",
+					"link":"youtube.com"
+				}
+		]
+	},
+	"bruhs3xual":{
+		"name":"bruhs3xual",
+		"ytcode":"xUs8tlZzOFw",
+		"id":"107423384",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"DY1N",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"DxstGD Challenge":{
 		"name":"DxstGD Challenge",
 		"ytcode":"c4JKJuXnA1s",
@@ -15,6 +154,21 @@
 				{
 						"name":"AerialShard",
 						"link":"https://www.youtube.com/watch?v=ie0R1WyfiyI"
+				}
+		]
+	},
+	"Acheloos":{
+		"name":"Acheloos",
+		"ytcode":"5JXq2mdNjbU",
+		"id":"93991257",
+		"victors":"0",
+		"creatorpoints":"4",
+		"publisher":"Mariner",
+		"verifier":"Mariner (no video)",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
 				}
 		]
 	},
@@ -69,6 +223,21 @@
 				{
 						"name":"AerialShard",
 						"link":"https://www.youtube.com/watch?v=J9EOuzvcUT4"
+				}
+		]
+	},
+	"evil":{
+		"name":"evil",
+		"ytcode":"KwmJiSdIcbk",
+		"id":"146566551",
+		"victors":"0",
+		"creatorpoints":"2",
+		"publisher":"NianiaXD",
+		"verifier":"NianiaXD",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
 				}
 		]
 	},
@@ -254,6 +423,21 @@
 				}
 		]
 	},
+	"better bitter butter":{
+		"name":"better bitter butter",
+		"ytcode":"OsOOLZ8RQfU",
+		"id":"89175125",
+		"victors":"0",
+		"creatorpoints":"3",
+		"publisher":"DexxxO71",
+		"verifier":"DexxxO71",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"Dangermansion":{
 		"name":"Dangermansion",
 		"ytcode":"9AoXNQ-TOhM",
@@ -374,32 +558,32 @@
 		]
 	},
 	"The Common Cold":{
-        "name":"The Common Cold",
-        "ytcode":"kYWKYmy0xVc",
-        "id":"103568924",
-        "victors":"2",
-        "creatorpoints":"2",
-        "publisher":"ZenosSins",
-        "verifier":"ZenosSins",
-        "list":[
-                {
-                        "name":"Th3Name",
-                        "link":"https://www.youtube.com/watch?v=UQjAGgUjmVQ"
-                },
-                {
-                        "name":"AerialShard",
-                        "link":"https://www.youtube.com/watch?v=OP024-kQAAs"
-                },
-                {
-                        "name":"tFluffy",
-                        "link":"https://www.youtube.com/watch?v=QmPKCQTNmTM"
-                },
-                {
-                        "name":"mald",
-                        "link":"https://youtu.be/j5pPrXq8jow"
-                }
-        ]
-    },
+				"name":"The Common Cold",
+				"ytcode":"kYWKYmy0xVc",
+				"id":"103568924",
+				"victors":"2",
+				"creatorpoints":"2",
+				"publisher":"ZenosSins",
+				"verifier":"ZenosSins",
+				"list":[
+								{
+												"name":"Th3Name",
+												"link":"https://www.youtube.com/watch?v=UQjAGgUjmVQ"
+								},
+								{
+												"name":"AerialShard",
+												"link":"https://www.youtube.com/watch?v=OP024-kQAAs"
+								},
+								{
+												"name":"tFluffy",
+												"link":"https://www.youtube.com/watch?v=QmPKCQTNmTM"
+								},
+								{
+												"name":"mald",
+												"link":"https://youtu.be/j5pPrXq8jow"
+								}
+				]
+		},
 	"Cannibal":{
 		"name":"Cannibal",
 		"ytcode":"qJTZuFvVeDY",
@@ -435,28 +619,28 @@
 		]
 	},
 	"blissful pickle land":{
-        "name":"blissful pickle land",
-        "ytcode":"Y_Ne5Rb32ac",
-        "id":"125037097",
-        "victors":"3",
-        "creatorpoints":"1",
-        "publisher":"kowman10",
-        "verifier":"tFluffy, uploaded by tFluffy",
-        "list":[
-                {
-                    "name":"AerialShard",
-                    "link":"https://www.youtube.com/watch?v=koa5opC4jsM"
-                },
-                {
-                    "name":"Th3Name",
-                    "link":"https://youtu.be/pdkzw6BT1nE"
-                },
-                {
-                    "name":"naturellwall",
-                    "link":"https://youtu.be/-lJQGlxyEb8?si=Zmy-P9G-9ig18rTD"
-                }
-        ]
-    },
+				"name":"blissful pickle land",
+				"ytcode":"Y_Ne5Rb32ac",
+				"id":"125037097",
+				"victors":"3",
+				"creatorpoints":"1",
+				"publisher":"kowman10",
+				"verifier":"tFluffy, uploaded by tFluffy",
+				"list":[
+								{
+										"name":"AerialShard",
+										"link":"https://www.youtube.com/watch?v=koa5opC4jsM"
+								},
+								{
+										"name":"Th3Name",
+										"link":"https://youtu.be/pdkzw6BT1nE"
+								},
+								{
+										"name":"naturellwall",
+										"link":"https://youtu.be/-lJQGlxyEb8?si=Zmy-P9G-9ig18rTD"
+								}
+				]
+		},
 	"and beyond":{
 		"name":"and beyond",
 		"ytcode":"zh84ZH30K1A",
@@ -469,6 +653,21 @@
 				{
 						"name":"tFluffy",
 						"link":"https://youtu.be/5duYK2xtBwg"
+				}
+		]
+	},
+	"Multicolored Malice":{
+		"name":"Multicolored Malice",
+		"ytcode":"eztIn4qv1sw",
+		"id":"149365623",
+		"victors":"0",
+		"creatorpoints":"8",
+		"publisher":"ThePvzProMaster",
+		"verifier":"pinpolenia",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
 				}
 		]
 	},
@@ -649,6 +848,21 @@
 				}
 		]
 	},
+	"FMCL":{
+		"name":"FMCL",
+		"ytcode":"gE3fqQrjq0E",
+		"id":"142405579",
+		"victors":"0",
+		"creatorpoints":"6",
+		"publisher":"ThePvzProMaster",
+		"verifier":"tFluffy",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"NOT Grief":{
 		"name":"NOT Grief",
 		"ytcode":"1vqW-leZlBw",
@@ -699,20 +913,35 @@
 		]
 	},
 	 "Kamah Scythe":{
-        "name":"Kamah Scythe",
-        "ytcode":"ZUf2LsmpAr0",
-        "id":"115411473",
-        "victors":"1",
-        "creatorpoints":"1",
-        "publisher":"ZenosSins",
-        "verifier":"ZenosSins",
-        "list":[
-                {
-                        "name":"tFluffy",
-                        "link":"https://youtu.be/MIfkVhszRrw"
-                }
-        ]
-    },
+				"name":"Kamah Scythe",
+				"ytcode":"ZUf2LsmpAr0",
+				"id":"115411473",
+				"victors":"1",
+				"creatorpoints":"1",
+				"publisher":"ZenosSins",
+				"verifier":"ZenosSins",
+				"list":[
+								{
+												"name":"tFluffy",
+												"link":"https://youtu.be/MIfkVhszRrw"
+								}
+				]
+		},
+	"Final Horizon":{
+		"name":"Final Horizon",
+		"ytcode":"5JXq2mdNjbU",
+		"id":"105808536",
+		"victors":"0",
+		"creatorpoints":"3",
+		"publisher":"ultrobro",
+		"verifier":"Limitation (no video)",
+		"list":[
+				{
+						"name":"NA",
+						"link":"youtube.com"
+				}
+		]
+	},
 	"Diamond":{
 		"name":"Diamond",
 		"ytcode":"NC6wer13JP0",
@@ -927,44 +1156,59 @@
 		]
 	},
 	"erected pickle":{
-        "name":"erected pickle",
-        "ytcode":"hRM7pKSzmHI",
-        "id":"107074619",
-        "victors":"2",
-        "creatorpoints":"1",
-        "publisher":"natsumio",
-        "verifier":"sydno",
-        "list":[
-                {
-                        "name":"tFluffy",
-                        "link":"https://www.youtube.com/watch?v=hQoTiUJ0Mr8"
-                },
-                {
-                        "name":"ZenosSins",
-                        "link":"https://www.youtube.com/watch?v=lYlEfgc8LNc"
-                },
-                {
-                        "name":"Th3Name",
-                        "link":"https://youtu.be/QJ9VDhvrxEg"
-                },
-                {
-                        "name":"quaoz",
-                        "link":"https://youtu.be/oOShb_L9iJI?si=-FhGUHRTPWeCUnIp"
-                },
-                {
-                        "name":"AerialShard",
-                        "link":"https://youtu.be/N26Qxzf5c-Q"
-                },
-                {
-                        "name":"NianiaXD",
-                        "link":"https://youtu.be/tw10rz4oYRc"
-                },
-                {
-                        "name":"tacocat6",
-                        "link":"https://www.youtube.com/watch?v=0pP6gAhwnwI"
-                }
-        ]
-    },
+				"name":"erected pickle",
+				"ytcode":"hRM7pKSzmHI",
+				"id":"107074619",
+				"victors":"2",
+				"creatorpoints":"1",
+				"publisher":"natsumio",
+				"verifier":"sydno",
+				"list":[
+								{
+												"name":"tFluffy",
+												"link":"https://www.youtube.com/watch?v=hQoTiUJ0Mr8"
+								},
+								{
+												"name":"ZenosSins",
+												"link":"https://www.youtube.com/watch?v=lYlEfgc8LNc"
+								},
+								{
+												"name":"Th3Name",
+												"link":"https://youtu.be/QJ9VDhvrxEg"
+								},
+								{
+												"name":"quaoz",
+												"link":"https://youtu.be/oOShb_L9iJI?si=-FhGUHRTPWeCUnIp"
+								},
+								{
+												"name":"AerialShard",
+												"link":"https://youtu.be/N26Qxzf5c-Q"
+								},
+								{
+												"name":"NianiaXD",
+												"link":"https://youtu.be/tw10rz4oYRc"
+								},
+								{
+												"name":"tacocat6",
+												"link":"https://www.youtube.com/watch?v=0pP6gAhwnwI"
+								}
+				]
+		},
+	"trained ears":{
+		"name":"trained ears",
+		"ytcode":"d1ISYh2wkI",
+		"id":"127807027",
+		"victors":"0",
+		"creatorpoints":"1",
+		"publisher":"electrosheep",
+		"verifier":"electrosheep",
+		"list":[
+			{
+				"name":"NA",
+				"link":"youtube.com"
+			}
+		]
+	},
 	"Blue Dandelion":{
 		"name":"Blue Dandelion",
 		"ytcode":"u7WADSbcbUA",
@@ -984,6 +1228,21 @@
 			},
 			{
 				"name":"ZenosSins",
+				"link":"youtube.com"
+			}
+		]
+	},
+	"qareday  never  clea":{
+		"name":"qareday\u00A0 never\u00A0 clea",
+		"ytcode":"2iGBKSyAYCg",
+		"id":"109511964",
+		"victors":"0",
+		"creatorpoints":"3",
+		"publisher":"NianiaXD",
+		"verifier":"NianiaXD",
+		"list":[
+			{
+				"name":"NA",
 				"link":"youtube.com"
 			}
 		]
@@ -1210,357 +1469,6 @@
 			{
 				"name":"tFluffy",
 				"link":"https://youtu.be/yQvhTidt2qA"
-			}
-		]
-	},
-	"Nulut Dance":{
-		"name":"Nulut Dance",
-		"ytcode":"RODVMK-7MHk",
-		"id":"89509225",
-		"victors":"2",
-		"creatorpoints":"1",
-		"publisher":"oKagamineRin",
-		"verifier":"oKagamineRin",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://www.youtube.com/watch?v=RHLHHkOogbI"
-			},
-			{
-				"name":"Th3Name",
-				"link":"https://youtu.be/DXC31qgoBp0"
-			},
-			{
-				"name":"quaoz",
-				"link":"https://youtu.be/blxFToWey6I?si=BpXjxceyyPw1k_5I"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/4ISwDLIelFQ"
-			},
-			{
-				"name":"reverie08",
-				"link":"https://www.youtube.com/watch?v=6zmUqOIfqZ4"
-			}
-		]
-	},
-	"mania":{
-		"name":"mania",
-		"ytcode":"Y5_0wvbnH5c",
-		"id":"107646435",
-		"victors":"2",
-		"creatorpoints":"1",
-		"publisher":"Meowave",
-		"verifier":"maxdaxperson; uploaded by maxdaxperson",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://www.youtube.com/watch?v=l_Y8aVpJ6OY"
-			},
-			{
-				"name":"ZenosSins",
-				"link":"https://www.youtube.com/watch?v=qDB7ehgQ1us"
-			},
-			{
-				"name":"N0tsome0ne",
-				"link":"https://www.youtube.com/watch?v=qDB7ehgQ1us"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://www.youtube.com/watch?v=Qdq4R183eRw"
-			}
-		]
-	},
-	"Wave Cube Spider":{
-		"name":"Wave Cube Spider",
-		"ytcode":"wUk-gcLp1hc",
-		"id":"111788773",
-		"victors":"0",
-		"creatorpoints":"2",
-		"publisher":"BlackCatPlus",
-		"verifier":"tFluffy",
-		"list":[
-			{
-				"name":"NA",
-				"link":"dfdfdfdf"
-			}
-		]
-	},
-	"Fatality":{
-		"name":"Fatality",
-		"ytcode":"sV7tdLD1QC4",
-		"id":"124251126",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"quaoz",
-		"verifier":"quaoz",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/Nr22rRnWuow"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/azz6N2yznKY"
-			}
-		]
-	},
-	"idkk":{
-		"name":"idkk",
-		"ytcode":"91IP4V5aD0A",
-		"id":"107021418",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"DY1N",
-		"verifier":"ZenosSins",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://www.youtube.com/watch?v=MyqaKrDoRNw"
-			},
-			{
-				"name":"quaoz",
-				"link":"www.youtube.com/watch?v=d9y9Ihbdsh4&t=66s"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/JDBeJgN6SUk?si=X1SQRmGD5FwEXt9E"
-			},
-			{
-				"name":"Th3Name",
-				"link":"https://youtu.be/kmjAatNC5jE&t=9s"
-			},
-			{
-				"name":"ScratchMobile",
-				"link":"https://youtu.be/a0rv05Q5Hq4"
-			}
-		]
-	},
-	"Rigid Corkscrew":{
-		"name":"Rigid Corkscrew",
-		"ytcode":"CDtyDSxhNMM",
-		"id":"116461105",
-		"victors":"1",
-		"creatorpoints":"3",
-		"publisher":"DexxxO71",
-		"verifier":"ZenosSins",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://www.youtube.com/watch?v=TO9MV5RlmKI&t=31s"
-			}
-		]
-	},
-	"bal 3":{
-		"name":"bal 3",
-		"ytcode":"oNCYbsY7oyk",
-		"id":"77111858",
-		"victors":"1",
-		"creatorpoints":"3",
-		"publisher":"tFluffy & ThePvzProMaster",
-		"verifier":"ThePvzProMaster; uploaded by tFluffy",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/P5dg6YuALG0"
-			}
-		]
-	},
-	"Eradication":{
-		"name":"Eradication",
-		"ytcode":"_QDhuSPQrD8",
-		"id":"113390934",
-		"victors":"1",
-		"creatorpoints":"4",
-		"publisher":"VooBu",
-		"verifier":"VooBu",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/3cOHWKUiMTc"
-			},
-			{
-				"name":"ThePvzProMaster",
-				"link":"https://www.youtube.com/watch?v=3C34D6541fM"
-			}
-		]
-	},
-	"BLOODY DEITY":{
-		"name":"BLOODY DEITY",
-		"ytcode":"77ickoQ-tYc",
-		"id":"108882128",
-		"victors":"2",
-		"creatorpoints":"3",
-		"publisher":"OblivionWing",
-		"verifier":"OblivionWing",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://www.youtube.com/watch?v=lj8toj5v8QQ"
-			},
-			{
-				"name":"ZenosSins",
-				"link":"https://www.youtube.com/watch?v=3o2tjuXO1Ok"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/S0qXajEHnA4"
-			}
-		]
-	},
-	"Unleashed":{
-		"name":"Unleashed",
-		"ytcode":"nCgHNVyrj-0",
-		"id":"113181251",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"foghner",
-		"verifier":"tFluffy",
-		"list":[
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/QlkVCGlCv4A"
-			}
-		]
-	},
-	"Slayer":{
-		"name":"Slayer",
-		"ytcode":"8_fufPUXVJM",
-		"id":"105511318",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"Br00klynnXX",
-		"verifier":"tFluffy",
-		"list":[
-			{
-				"name":"ZenosSins",
-				"link":"https://www.youtube.com/watch?v=8z7IHSUUpyY"
-			},
-			{
-				"name":"gdBean69",
-				"link":"https://www.youtube.com/watch?v=_P2YZFsyfuw"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/-6hQ18nU_bo"
-			}
-		]
-	},
-	"perhapsave":{
-		"name":"perhapsave",
-		"ytcode":"j5Awf5uqPlc",
-		"id":"110399487",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"DY1N",
-		"verifier":"ZenosSins",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/PUVPmWRS_yQ"
-			}
-		]
-	},
-	"OBOHOBO":{
-		"name":"OBOHOBO",
-		"ytcode":"tMiO2i1RqSk",
-		"id":"110461685",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"quaoz",
-		"verifier":"quaoz",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/w_CPCUyMtbw"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://www.youtube.com/watch?v=a0yR-Ku3lFQ&t=50s"
-			}
-		]
-	},
-	"Alex Velicky":{
-		"name":"Alex Velicky",
-		"ytcode":"QHspaMiGyD4",
-		"id":"117655714",
-		"victors":"1",
-		"creatorpoints":"2",
-		"publisher":"Slinky2701",
-		"verifier":"Slinky2701",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/5yHOxCTv6sY"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/-vj5TuZG81g"
-			}
-		]
-	},
-	"Tidal Change":{
-		"name":"Tidal Change",
-		"ytcode":"H6ITIDqt_6g",
-		"id":"105811589",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"ASPECTLIVE",
-		"verifier":"tFluffy",
-		"list":[
-			{
-				"name":"oKagamineRin",
-				"link":"https://www.youtube.com/watch?v=4Jbur_6rTL4&t=63s"
-			},
-			{
-				"name":"ZenosSins",
-				"link":"https://www.youtube.com/watch?v=qaRkBqKT4hY"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/9rsy0m34tmA"
-			}
-		]
-	},
-	"Severus":{
-		"name":"Severus",
-		"ytcode":"AK_yEF4d_1c",
-		"id":"105620347",
-		"victors":"3",
-		"creatorpoints":"1",
-		"publisher":"TechnoKaj",
-		"verifier":"TechnoKaj",
-		"list":[
-			{
-				"name":"QwertyQwertz",
-				"link":"youtube.com"
-			},
-			{
-				"name":"tFluffy",
-				"link":"https://www.youtube.com/watch?v=eavpr8N4UG0"
-			},
-			{
-				"name":"ZenosSins",
-				"link":"https://www.youtube.com/watch?v=4M31rpWs2u8"
-			},
-			{
-				"name":"AerialShard",
-				"link":"https://youtu.be/l9HyfdeimLY"
-			}
-		]
-	},
-	"Lantern Lamentation":{
-		"name":"Lantern Lamentation",
-		"ytcode":"4psh2gCS4as",
-		"id":"146606687",
-		"victors":"1",
-		"creatorpoints":"6",
-		"publisher":"ThePvzProMaster",
-		"verifier":"ThePvzProMaster",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/IUPjNHC7V8Y"
 			}
 		]
 	}
