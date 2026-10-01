@@ -92,21 +92,8 @@
 			"glitch waves",
 			"HEADACHE",
 			"My Flesh",
-			"mania",
-			"Fatality",
-			"bal 3",
-			"Eradication",
-			"BLOODY DEITY",
-			"Unleashed",
-			"Slayer",
-			"OBOHOBO",
-			"Alex Velicky",
-			"Tidal Change",
-			"Severus",
-			"idkk",
 			"Extratone",
 			"The Eminence",
-			"Nulut Dance",
 			"burger king challeng",
 			"When You Find Me",
 			"frick TDL",
@@ -128,7 +115,6 @@
 			"zoink never clear v2",
 			"Blacklights",
 			"venom gats",
-			"Wave Cube Spider",
 			"Wave Challenge 1",
 			"Razorblade",
 			"hAPPY bDAY nATSUMI H",
@@ -143,10 +129,8 @@
 			"nba the movie",
 			"Tourture Chamber",
 			"Ecliptic",
-			"Lantern Lamentation",
-			"perhapsave",
-			"Rigid Corkscrew",
-			"Horrible Place"
+			"Horrible Place",
+			"FMCL"
 		],
 		"progs":[
 			"none"
@@ -155,11 +139,8 @@
 	"ThePvzProMaster":{
 		"levels":[
 			"bal 4",
-			"bal 3",
 			"halvechamber",
-			"Eradication",
-			"Tourture Chamber",
-			"Lantern Lamentation"
+			"Tourture Chamber"
 		],
 		"progs":[
 			"none"
@@ -169,10 +150,10 @@
 		"levels":[
 			"Dark Matter",
 			"I think",
-			"mania",
 			"sjd",
 			"The Eminence",
-			"Horrible Place"
+			"Horrible Place",
+			"armaggedon"
 		],
 		"progs":[
 			"none"
@@ -205,11 +186,6 @@
 			"Blue Dandelion",
 			"shadow inferno",
 			"My Flesh",
-			"mania",
-			"BLOODY DEITY",
-			"Slayer",
-			"Severus",
-			"idkk",
 			"The Eminence",
 			"infernal playground",
 			"I love Ado",
@@ -217,15 +193,12 @@
 			"old man circles",
 			"Rainbow Glitch",
 			"The Common Cold",
-			"Tidal Change",
 			"burger pizza",
 			"The Tears of hank",
 			"The Reaper",
 			"zenos is 5",
 			"Wave Challenge 1",
-			"Stained Galaxy",
-			"perhapsave",
-			"Rigid Corkscrew"
+			"Stained Galaxy"
 		],
 		"progs":[
 			"none"
@@ -265,14 +238,12 @@
 					"The Common Cold",
 					"old man circles",
 					"One",
-					"Nulut Dance",
 					"burger king challeng",
 					"final fluxx",
 					"life below",
 					"The Eminence",
 					"Hades",
 					"erected pickle",
-					"idkk",
 					"burger pizza",
 					"my revival",
 					"emiLATE birthdaychal",
@@ -311,12 +282,9 @@
 					"The TDL Zone",
 					"Fast paced death 3",
 					"the end",
-					"OBOHOBO",
 					"When You Find Me",
-					"Fatality",
 					"FIND ME",
 					"Extratone",
-					"idkk",
 					"Rainbow Glitch",
 					"TDHELL",
 					"SPECTRUM CRAZE",
@@ -329,10 +297,10 @@
 					"sonek",
 					"my revival",
 					"crying where",
-					"Nulut Dance",
 					"Ecliptic",
 					"Tidal Circles",
-					"Tickle Time"
+					"Tickle Time",
+					"My Final Stand"
 				],
 				"progs":[
 					"none"
@@ -342,7 +310,6 @@
 			"levels":[
 					"Living Millennium",
 					"smiley face",
-					"Tidal Change",
 					"The Eminence"
 				],
 				"progs":[
@@ -360,8 +327,7 @@
 	"VooBu":{
 			"levels":[
 					"poobot",
-					"pootra",
-					"Eradication"
+					"pootra"
 				],
 				"progs":[
 					"none"
@@ -390,8 +356,8 @@
 					"Silent Tinystep",
 					"the end",
 					"6am thinker",
-					"idkk",
-					"I hate timings"
+					"I hate timings",
+					"Tinytitled Mastered"
 				],
 				"progs":[
 					"none"
@@ -411,7 +377,6 @@
 					"DxstGD Challenge",
 					"SPECTRUM CRAZE",
 					"The Common Cold",
-					"idkk",
 					"ZenosSins chall III",
 					"Two point too",
 					"sonek",
@@ -419,26 +384,19 @@
 					"Tidal Circles",
 					"Diamond",
 					"Illuminus",
-					"mania",
 					"blissful pickle land",
 					"KiCkiN",
 					"Ill cry Forever",
 					"Rainbow Glitch",
 					"The Tears of hank",
-					"OBOHOBO",
 					"Dark Matter",
 					"Contract hepititis b",
 					"Errorhouse",
 					"emiLATE birthdaychal",
-					"BLOODY DEITY",
 					"My Last Stand",
-					"Tidal Change",
 					"erected pickle",
 					"Tickle Time",
 					"burger pizza",
-					"Severus",
-					"Alex Velicky",
-					"Nulut Dance",
 					"HEADACHE",
 					"glitch waves",
 					"The UnderWorld",
@@ -450,11 +408,8 @@
 					"infernal playground",
 					"life below",
 					"My Flesh",
-					"Fatality",
 					"Cigl",
 					"Cannibal",
-					"Slayer",
-					"Unleashed",
 					"the end",
 					"old man circles"
 				],
@@ -472,7 +427,8 @@
 	},
 	"DexxxO71":{
 			"levels":[
-					"Ill cry Forever"
+					"Ill cry Forever",
+					"better bitter butter"
 				],
 				"progs":[
 					"none"
@@ -484,7 +440,8 @@
 					"SPECTRUM CRAZE",
 					"Ill cry Forever",
 					"Stained Galaxy",
-					"dyln ship challenge"
+					"dyln ship challenge",
+					"Cerberus"
 				],
 				"progs":[
 					"none"
@@ -503,8 +460,7 @@
 	"QwertyQwertz":{
 			"levels":[
 					"smiley face",
-					"old man circles",
-					"Severus"
+					"old man circles"
 				],
 				"progs":[
 					"none"
@@ -597,17 +553,17 @@
 					"none"
 				]
 	},
-	"Slinky2701":{
+	"Mariner":{
 			"levels":[
-					"Alex Velicky"
+					"Acheloos"
 				],
 				"progs":[
 					"none"
 				]
 	},
-	"TechnoKaj":{
+	"FogMello":{
 			"levels":[
-					"Severus"
+					"Final Dream"
 				],
 				"progs":[
 					"none"
@@ -659,7 +615,8 @@
 			"levels":[
 					"The Tears of hank",
 					"Cliff Hanger",
-					"Razorblade"
+					"Razorblade",
+					"Cave A Neer"
 				],
 				"progs":[
 					"none"
@@ -689,21 +646,34 @@
 					"none"
 				]
 	},
+	"electrosheep":{
+			"levels":[
+					"trained ears"
+				],
+				"progs":[
+					"none"
+				]
+	},
 	"NianiaXD":{
 			"levels":[
 					"Hades",
 					"Severus Incarnate",
 					"erected pickle",
 					"FIND ME",
-					"into dreaming"
+					"into dreaming",
+					"Silent v1rase",
+					"Serviance",
+					"evil",
+					"qareday  never  clea"
 				],
 				"progs":[
 					"none"
 				]
 	},
-	"reverie08":{
+	"pinpolenia":{
 			"levels":[
-					"Nulut Dance"
+					"reanimation of hell",
+					"Multicolored Malice"
 				],
 				"progs":[
 					"none"
@@ -743,7 +713,7 @@
 	},
 	"N0tsome0ne":{
 			"levels":[
-				"mania"
+
 				],
 				"progs":[
 					"none"
