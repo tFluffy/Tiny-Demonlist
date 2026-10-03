@@ -183,14 +183,14 @@
 		"name":"my worst memory",
 		"ytcode":"ML7zW_YNvqE",
 		"id":"128803282",
-		"victors":"0",
+		"victors":"1",
 		"creatorpoints":"7",
 		"publisher":"FreakybobGD",
 		"verifier":"FreakybobGD",
 		"list":[
 			{
-				"name":"NA",
-				"link":"youtube.com"
+				"name":"tFluffy",
+				"link":"https://youtu.be/QYhyC5OINAg"
 			}
 		]
 	},
@@ -273,14 +273,14 @@
 		"name":"My Final Stand",
 		"ytcode":"Yw4Lj1ewGEk",
 		"id":"144103363",
-		"victors":"0",
+		"victors":"1",
 		"creatorpoints":"4",
 		"publisher":"quaoz",
 		"verifier":"quaoz",
 		"list":[
 				{
-					"name":"NA",
-					"link":"youtube.com"
+					"name":"tFluffy",
+					"link":"https://youtu.be/VKuiOAyeghA"
 				}
 		]
 	},
@@ -706,14 +706,14 @@
 		"name":"reanimation of hell",
 		"ytcode":"cjogdmRgY10",
 		"id":"131223419",
-		"victors":"0",
+		"victors":"1",
 		"creatorpoints":"4",
 		"publisher":"wpeir",
 		"verifier":"pinpolenia",
 		"list":[
 				{
-					"name":"NA",
-					"link":"youtube.com"
+					"name":"tFluffy",
+					"link":"https://www.youtube.com/watch?v=TO9MV5RlmKI"
 				}
 		]
 	},
@@ -1012,14 +1012,14 @@
 		"name":"Silent v1rase",
 		"ytcode":"2g21yp7xmk0",
 		"id":"141790871",
-		"victors":"0",
+		"victors":"1",
 		"creatorpoints":"5",
 		"publisher":"NianiaXD & blon7",
 		"verifier":"NianiaXD",
 		"list":[
 				{
-						"name":"NA",
-						"link":"youtube.com"
+						"name":"tFluffy",
+						"link":"https://www.youtube.com/watch?v=TO9MV5RlmKI"
 				}
 		]
 	},
@@ -1114,14 +1114,14 @@
 		"name":"Tinytitled Mastered",
 		"ytcode":"NhLHup_q2bM",
 		"id":"146651793",
-		"victors":"0",
+		"victors":"1",
 		"creatorpoints":"3",
 		"publisher":"ScratchMobile",
 		"verifier":"ScratchMobile",
 		"list":[
 				{
-						"name":"NA",
-						"link":"youtube.com"
+						"name":"tFluffy",
+						"link":"https://www.youtube.com/watch?v=TO9MV5RlmKI"
 				}
 		]
 	},
@@ -1221,7 +1221,11 @@
 				{
 						"name":"AerialShard",
 						"link":"https://youtu.be/OgJc0vFP5Sg"
-				}
+				},
+			{
+				"name":"tFluffy",
+				"link":"https://youtu.be/E00n6NUnhsY"
+			}
 		]
 	},
 	"Ecliptic":{
