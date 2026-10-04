@@ -219,6 +219,10 @@
 		"verifier":"Th3Name",
 		"list":[
 				{
+					"name":"quaoz",
+					"link":"https://www.youtube.com/watch?v=GeLuWyCJlyc"
+				},
+				{
 					"name":"FreakybobGD",
 					"link":"https://youtu.be/6WxQst7GMCs"
 				}
@@ -230,7 +234,7 @@
 		"id":"148496088",
 		"victors":"0",
 		"creatorpoints":"1",
-		"publisher":"fiestygd",
+		"publisher":"fiestygd & natsumio",
 		"verifier":"fiestygd",
 		"list":[
 				{
@@ -646,6 +650,10 @@
 				},
 				{		"name":"AerialShard",
 						"link":"https://youtu.be/AxvqP6ep3S8"
+				},
+				{
+						"name":"fiestygd",
+						"link":"https://www.youtube.com/shorts/RJWv3p6Hgzc"
 				}
 		]
 	},
