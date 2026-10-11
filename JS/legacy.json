@@ -462,9 +462,11 @@
         "id":"105847019",
         "victors":"1",
         "creatorpoints":"2",
-        "publisher":"user19312 and ScratchMobile",
-        "verifier":"ZenosSins, uploaded by ScratchMobile",
-        "list":[{}]
+        "publisher":"user19312 & ScratchMobile",
+        "verifier":"ZenosSins (no video)",
+        "list":[{
+            "link":"https://www.youtube.com/watch?v=c9qVF3QrNh4"
+        }]
     },
     "INanimate":{
         "name":"INanimate",
