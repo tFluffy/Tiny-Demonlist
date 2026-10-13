@@ -1,4 +1,19 @@
 {
+	"Ecliptic":{
+		"name":"Ecliptic",
+		"ytcode":"Qe8dLOAjluc",
+		"id":"143673554",
+		"victors":"1",
+		"creatorpoints":"2",
+		"publisher":"quaoz",
+		"verifier":"quaoz",
+		"list":[
+				{
+						"name":"tFluffy",
+						"link":"https://youtu.be/T74a7iapKqQ"
+				}
+		]
+	},
 	"Serviance":{
 		"name":"Serviance",
 		"ytcode":"7ohErS2YFz4",
@@ -1463,20 +1478,6 @@
 				"link":"https://youtu.be/xAkHSVXMvKA"
 			}
 		]
-	},
-	"burger king challeng":{
-		"name":"burger king challeng",
-		"ytcode":"VywLgAPG1io",
-		"id":"128473444",
-		"victors":"1",
-		"creatorpoints":"1",
-		"publisher":"Th3Name",
-		"verifier":"Th3Name",
-		"list":[
-			{
-				"name":"tFluffy",
-				"link":"https://youtu.be/yQvhTidt2qA"
-			}
-		]
 	}
+	
 }
