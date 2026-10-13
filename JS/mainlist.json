@@ -1,5 +1,19 @@
 {
-	"BUTT3RFLi3S":{
+	"I Hate TDL":{
+		"name":"i hate tdl",
+		"ytcode":"Z7vCXFVqhcA",
+		"id":"116412086",
+		"victors":"0",
+		"creatorpoints":"4",
+		"publisher":"FreakybobGD",
+		"verifier":"FreakybobGD",
+		"list":[
+			{
+				"name":"NA",
+				"link":"youtube.com"
+			}
+		]
+	},"BUTT3RFLi3S":{
 		"name":"BUTT3RFLi3S",
 		"ytcode":"aBNhOYUat0c",
 		"id":"116412086",
@@ -13,7 +27,6 @@
 				"link":"youtube.com"
 			}
 		]
-	},
 	"THE BEAST":{
 		"name":"THE BEAST",
 		"ytcode":"NQ3UOsyn6Lo",
@@ -1239,20 +1252,4 @@
 				"link":"https://youtu.be/E00n6NUnhsY"
 			}
 		]
-	},
-	"Ecliptic":{
-		"name":"Ecliptic",
-		"ytcode":"Qe8dLOAjluc",
-		"id":"143673554",
-		"victors":"1",
-		"creatorpoints":"2",
-		"publisher":"quaoz",
-		"verifier":"quaoz",
-		"list":[
-				{
-						"name":"tFluffy",
-						"link":"https://youtu.be/T74a7iapKqQ"
-				}
-		]
 	}
-}
