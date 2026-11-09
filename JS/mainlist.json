@@ -1,7 +1,7 @@
 {
 	"i hate tdl":{
 		"name":"i hate tdl",
-		"ytcode":"Z7vCXFVqhcA",
+		"ytcode":"kszw0AtUswo",
 		"id":"123960237",
 		"victors":"0",
 		"creatorpoints":"3",
@@ -76,7 +76,7 @@
 	},
 	"Freakybob On Crack":{
 		"name":"Freakybob On Crack",
-		"ytcode":"-0YkvyBVE3Y",
+		"ytcode":"_vnWCKPO940",
 		"id":"116496464",
 		"victors":"1",
 		"creatorpoints":"8",
@@ -691,6 +691,10 @@
 		"verifier":"zis08",
 		"list":[
 				{
+						"name":"TomatoKatsup",
+						"link":"https://youtu.be/XZV4lCW1Dik&t=13s"
+				}
+				{
 						"name":"tFluffy",
 						"link":"https://www.youtube.com/watch?v=SO4rqFoSaWE"
 				},
@@ -1041,6 +1045,10 @@
 				{
 						"name":"AerialShard",
 						"link":"https://www.youtube.com/watch?v=IxWqKYnRU5c"
+				},
+				{
+						"name":"Bruv961",
+						"link":"https://youtu.be/hy8jjkeJw7k"
 				}
 		]
 	},
@@ -1220,9 +1228,13 @@
 						"name":"maxfgmd",
 						"link":"https://medal.tv/games/geometry-dash/clips/mOZdDhH57uHeefhmN/spok?invite=cr-MSxPblAsNDczMjEyNjI2LA"
 				},
-			{
+				{
 						"name":"FoldedZero",
 						"link":"https://www.youtube.com/watch?v=vtO66t8Tup4&t=65s"
+				},
+				{
+						"name":"StumbonGD",
+						"link":"https://www.youtube.com/watch?v=nhMRrxrj0U4"
 				}
 		]
 	},
